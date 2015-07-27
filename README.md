@@ -1,5 +1,5 @@
-# pyRecommender
-This project aims to implement a minimal python based-recommender system, complete with algorithms and evaluation system.
+# pyCBRS
+This project aims to implement a minimal Content-based recommender system.
 
 # Usage
 Project follows a series of blog posts on [my blog](http://vikasrtr.github.io/)
