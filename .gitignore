@@ -60,3 +60,10 @@ target/
 # Pydev and Eclipse
 .pydevproject
 .project
+
+# Prevent movielens dataset from getting into git
+data/links.csv
+data/movies.csv
+data/ratings.csv
+data/tags.csv
+data/README.txt
